@@ -9,40 +9,35 @@ redirect_from:
 
 {% include base_path %}
 
-<h1 style="text-align:center">Changda Tian</h1>
+<h1 style="text-align:center">Ziqi Ma</h1>
 <!-- th rowspan="5"><img src="/images/yangcy-300x300.png" width="180" height="180" /></th -->
-* **Birth of Date: 11/19/1997**
-* **Email: tianchangda97@gmail.com**
-* **Cell: +86 18916906856**
+* **Birth of Date: 05/06/1999**
+* **Email: maziqi0605@qq.com**
+* **Cell: +86 15131498161**
 * **Address： Shanghai Jiao Tong University No.800 Dongchuan Road, Shanghai 200240, China.**
 
 
 # AREAS OF INTERESTS
 
-- **Robotics**, **Reinforcement Learning**
+- **Robot Manipulation**, **Reinforcement Learning**, **Imitation Learning**
 
 
 # EDUCATION
 
 
-* **School of Electronic Information and Electrical Engineering, Shanghai Jiao Tong University, Shanghai, China &ensp;&ensp;&ensp;&ensp; 09/2016 to 06/2020**
-  * Major: Automation + Computer Science
+* **École d'ingénieurs Paris, Shanghai Jiao Tong University, Shanghai, China &ensp;&ensp;&ensp;&ensp; 09/2017 to 06/2021**
+  * Major: French + Information Engineering
   
-* **Zhiyuan College, Shanghai Jiao Tong University &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp; 09/2016 to 06/2020**
-  * Zhiyuan Honors Program of Engineering (Top 5%)
-
-* **School of Electronic Information and Electrical Engineering, Shanghai Jiao Tong University, Shanghai, China &ensp;&ensp;&ensp;&ensp; 09/2020 to present**
-  * Major: Control Engineering
+* **École d'ingénieurs Paris, Shanghai Jiao Tong University, Shanghai, China &ensp;&ensp;&ensp;&ensp; 09/2021 to present**
+  * Major: Information Engineering
 
 # SKILLS
 
+- **Language: French, English, Chinese**
 - **Programming: C/C++, Python**
-- **Robotic systems: ROS**
 - **ML systems: Pytorch**
-- **Physical Simulation Plantforms: Mujoco, CoppeliaSim**
-- **Data Acquisition & Processing: Matlab, Mathematica**
-- **FPGA Developing: Verilog HDL, Quartus II**
-- **Modeling and analyzing control systems and design controllers**
+- **Physical Simulation Plantforms: Mujoco, Isaac Gym**
+- **Data Acquisition & Processing: Matlab**
 
 
 # HONORS & AWARDS

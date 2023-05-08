@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "ABOUT ME"
-excerpt: "About Changda Tian"
+excerpt: "About Ziqi Ma"
 author_profile: true
 redirect_from: 
   - /about/
@@ -10,21 +10,21 @@ redirect_from:
 
 ## Academic
 
-I am currently a master student in Shanghai Jiao Tong University majored in Automation & Control Engineering. My research interest is about legged robots. And I am in [RL2 Lab](https://gaoyue.sjtu.edu.cn) of the AI Institute of SJTU. I am doing research about legged robots on the following topics:
+I am currently a master student in Shanghai Jiao Tong University majored in Information Engineering. My research interest is about robot arms and manipulation. And I am in [RL2 Lab](https://gaoyue.sjtu.edu.cn) of the AI Institute of SJTU. I am doing research about robot manipulation on the following topics:
 
-- Locomotion planning and control for legged robots.
+- Motion planning and control for robot arms.
   
-- Reinforcement learning based motion control for legged robots. 
+- Reinforcement learning based manipulation for robot arms. 
 
-- Traverse capability based path planning for legged robots.
+- Human like imitation learning based manipulation for robot arms.
 
 ## Teaching
 
-I have been doing a part-time job as an informatics competition coach in Shanghai Jiao Long Academy. My job is to teach middle school students classical algorithms and programming in Python/C++ to participate in informatics competitions.
+I have been doing a teaching assistant in SPEIT SJTU. My work is about help the professor teach undergraduate students in robotic classes.
 
-## Open Source Community
+## Experiments
 
-I am proficient at developing in python and good at C/C++ and ROS. I will be very happy to contribute to Open Source projects about robot perception, planning and control.
+I am proficient in French. And I have been to UNSTA PARIS for over 1 year as a exchange graduate student. I have done some works about robot motion retargeting.
 
 
 
