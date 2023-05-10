@@ -24,7 +24,7 @@ In 2023, I have been doing a teaching assistant in SPEIT SJTU. My work is about 
 
 ## Exchange
 
-From Aug. 2021 to Sep. 2022, being proficient in French, I have been to ENSTA Paris for over one year as a exchange graduate student. In ENSTA, I took some courses and participated in the [U2IS Lab](http://u2is.ensta-paris.fr/index.php?lang=en) and was mentored by [Sao Mai NGUYEN](http://nguyensmai.free.fr/Home.html).I have developped a good acknoweledgement about humain robot interaction and have done some researches on motion retargeting.
+From 08/2021 to 09/2022, being proficient in French, I have been to ENSTA Paris for over one year as a exchange graduate student. In ENSTA, I took some courses and participated in the [U2IS Lab](http://u2is.ensta-paris.fr/index.php?lang=en) and was mentored by [Sao Mai NGUYEN](http://nguyensmai.free.fr/Home.html).I have developped a good acknoweledgement about humain robot interaction and have done some researches on motion retargeting.
 
 ## Internship
 In 2020, I developped a three month internship in the company Air Liquide, there, I worked for the computer science department and tried to solve a distribution problem by using the clustering algorithm.

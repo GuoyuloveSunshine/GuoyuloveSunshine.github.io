@@ -19,17 +19,25 @@ redirect_from:
 
 # AREAS OF INTERESTS
 
-- **Robot Manipulation**, **Reinforcement Learning**, **Imitation Learning**
+- **Robot Manipulation**, **Humain Robot Interaction**,**Reinforcement Learning**, **Imitation Learning**
 
 
 # EDUCATION
 
+* **Master, Paris Elite Institute of Technology, Shanghai Jiao Tong University, Shanghai, China &ensp;&ensp;&ensp;&ensp; 09/2021 to present**
+  * Major: Information Engineering
 
-* **École d'ingénieurs Paris, Shanghai Jiao Tong University, Shanghai, China &ensp;&ensp;&ensp;&ensp; 09/2017 to 06/2021**
+* **Bachelor, Paris Elite Institute of Technology, Shanghai Jiao Tong University, Shanghai, China &ensp;&ensp;&ensp;&ensp; 09/2017 to 06/2021**
   * Major: French + Information Engineering
   
-* **École d'ingénieurs Paris, Shanghai Jiao Tong University, Shanghai, China &ensp;&ensp;&ensp;&ensp; 09/2021 to present**
+# Exchange Experience
+
+* **ENSTA(National School of Advanced Techniques) Paris, Institut Polytechnique de Paris, Paris, France &ensp;&ensp;&ensp;&ensp; 08/2021 to 09/2022**
   * Major: Information Engineering
+
+# Internship
+* **Air Liquide Company, Minhang Distinct, Shanghai, China &ensp;&ensp;&ensp;&ensp; 06/2020 to 09/2020**
+  * Department: Computational & Data Science, R&D, Shanghai
 
 # SKILLS
 
@@ -41,14 +49,14 @@ redirect_from:
 
 
 # HONORS & AWARDS
+- **Excellent Bachelor of Shanghai Jiao Tong University Jun.2021**
+- **Excellent Scholarship of SPEIT, Shanghai Jiao Tong University (5%) Oct.2020**
+- **Certificate of Excellence in Operational Internship Oct.2020**
+- **A Prize of Shanghai Jiao Tong University (10%) Dec.2019**
+- **Honorable Mention in 2019 MCM April.2019**
+- **B Prize of Shanghai Jiao Tong University (15%) Dec.2018**
+- **Three Good Student of Shanghai Jiao Tong University Oct.2018**
 
-- **National Scholarship (1%) Oct.2017**
-- **CASC Aerospace Science and Technology Award (5%) Oct.2018**
-- **Zhiyuan Exellent Scholarship (10%) (4 times) Dec.2016/ Dec.2017 / Dec.2018 / Dec.2019**
-- **B Prize of Shanghai Jiao Tong University (15%) (3 times) Oct.2017/ Oct.2018 / Oct.2019**
-- **H Prize in 2019 MCM April.2019**
-- **Second Prize in East China Area NXP Smart Car Competition August.2019**
-- **Graduate Student Academic Scholarship (3 times) Nov.2020/ Nov.2021 / Nov.2022**
 
 
 # LABORATORY EXPERIENCE
