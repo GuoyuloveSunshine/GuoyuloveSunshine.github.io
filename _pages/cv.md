@@ -24,19 +24,22 @@ redirect_from:
 
 ## EDUCATION
 
-* **09/2021 to present &ensp;&ensp; Master in Paris Elite Institute of Technology, Shanghai Jiao Tong University, Shanghai, China**
+* **09/2021 - present &ensp;&ensp; Master in Paris Elite Institute of Technology, Shanghai Jiao Tong University**, Shanghai, China
   * Major: Information Engineering
 
-* **09/2017 to 06/2021  &ensp;&ensp; Bachelor in Paris Elite Institute of Technology, Shanghai Jiao Tong University, Shanghai, China**
-  * Major: French + Information Engineering
+* **09/2017 - 06/2021  &ensp;&ensp; Bachelor Degree, Paris Elite Institute of Technology, Shanghai Jiao Tong University**, Shanghai, China
+  * Major: French
+
+* **09/2017 - 06/2021  &ensp;&ensp; Bachelor Degree, Paris Elite Institute of Technology, Shanghai Jiao Tong University**, Shanghai, China
+  * Major: Information Engineering
   
 ## Exchange Experience
 
-* **08/2021 to 09/2022 &ensp;&ensp; ENSTA(National School of Advanced Techniques) Paris, Institut Polytechnique de Paris, Paris, France**
+* **08/2021 - 09/2022 &ensp;&ensp; ENSTA(National School of Advanced Techniques) Paris, Institut Polytechnique de Paris, Paris, France**
   * Major: Information Engineering
 
 ## Internship
-* **06/2020 to 09/2020 &ensp;&ensp; Air Liquide Company, Minhang Distinct, Shanghai, China**
+* **06/2020 - 09/2020 &ensp;&ensp; Air Liquide Company, Minhang Distinct, Shanghai, China**
   * Department: Computational & Data Science, R&D, Shanghai
   * Main work: Optimizing distribution plan: finding the optimal parameters tuning of clustering algorithm, DBSCAN, to gather the client with similar characteristic
 
