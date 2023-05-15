@@ -3,9 +3,6 @@ main:
   - title: "CV"
     url: /cv/
 
-  - title: "Research Experience"
-    url: /experience/
-
-  - title: "Extra Curriculum"
-    url: /curriculum/
+  - title: "Publications"
+    url: /publications/
 
