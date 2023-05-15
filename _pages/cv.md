@@ -77,4 +77,4 @@ redirect_from:
 * **07/2018 - 08/2018 &ensp;&ensp; Research about the application Tokamak**
   * Main work: Establishing and solving parametric equation by MATLAB
 
-## 5.15 19:16
+## 5.15 19:24

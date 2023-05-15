@@ -1,6 +1,6 @@
 ---
 title: "Detection and Imitation of human mouvement by humanoid robot"
-collection: Experience
+collection: experiences
 permalink: /publication/ENSTA
 date: "Sep. 2022"
 venue: 'The research in ENSTA Paris, France'
@@ -12,6 +12,8 @@ The Keraal project aims to develop a physiotherapist robot called Poppy capable 
 ### Movement detection and comparison
 ![](../images/skeleton.png)
 > The skeleton detected by Blazepose, Openpose, Kinect and Vicon.
+
+
 ![](../images/comparison.png)
 > The comparison of error between Blazepose-Vicon, Openpose-Vicon and Kinect-Vicon 
 
@@ -20,5 +22,5 @@ The Keraal project aims to develop a physiotherapist robot called Poppy capable 
 ![](../images/ende-en.png)
 > The architecture of two networks
 
-[Download paper here](http://GuoyuloveSunshine.github.io/files/PRe.pdf)
-[Download poster here](http://GuoyuloveSunshine.github.io/files/Poster.pdf)
+### Files download
+You can download the [report](http://GuoyuloveSunshine.github.io/files/PRe.pdf) of this project, and the poster[(http://GuoyuloveSunshine.github.io/files/Poster.pdf)] of this project.
