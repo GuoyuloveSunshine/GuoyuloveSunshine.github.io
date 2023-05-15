@@ -1,7 +1,7 @@
 ---
 title: "Detection and Imitation of human mouvement by humanoid robot"
-collection: experience
-permalink: /experience/ENSTA
+collection: Experience
+permalink: /publication/ENSTA
 date: "Sep. 2022"
 venue: 'The research in ENSTA Paris, France'
 ---
