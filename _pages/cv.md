@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 <h1 style="text-align:center">Ziqi Ma</h1>
-<!-- th rowspan="5"><img src="/images/yangcy-300x300.png" width="180" height="180" /></th -->
+
 * **Birth of Date: 05/06/1999**
 * **Email: maziqi0605@qq.com**
 * **Cell: +86 15131498161**
@@ -77,4 +77,4 @@ redirect_from:
 * **07/2018 - 08/2018 &ensp;&ensp; Research about the application Tokamak**
   * Main work: Establishing and solving parametric equation by MATLAB
 
-## 5.13 20:31
+## 5.15 18:15
