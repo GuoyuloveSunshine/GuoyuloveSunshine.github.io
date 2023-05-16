@@ -1,6 +1,6 @@
 ---
 title: "Two Person Emotion Interaction Detection and Generation on Video Sequences"
-collection: Experiences
+collection: Publications
 permalink: /publications/Bachelor
 date: "Feb. 2021"
 venue: 'SPEIT, Shanghai Jiao Tong, China'

@@ -1,6 +1,6 @@
 ---
 title: "Detection and Imitation of human movement by humanoid robot"
-collection: Experiences
+collection: Publications
 permalink: /publications/ENSTA
 date: "Sep. 2022"
 venue: 'ENSTA Paris, France'
