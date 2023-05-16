@@ -242,6 +242,15 @@ defaults:
       author_profile: true
       share: true
       comments: true
+  # _experiences
+  - scope:
+      path: ""
+      type: experiences
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
   # _portfolio
   - scope:
       path: ""
