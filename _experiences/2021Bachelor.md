@@ -1,5 +1,5 @@
 ---
-title: "Detection and Imitation of human movement by humanoid robot"
+title: "Two Person Emotion Interaction Detection and Generation on Video Sequences"
 collection: Experiences
 permalink: /experiences/Bachelor
 date: "Feb. 2021"
