@@ -68,7 +68,7 @@ redirect_from:
   * Main work: Using imitation learning to imitate complex human manipulation trajectories
 * **05/2022 - 08/2022 &ensp;&ensp; Research on movement detection and motion retargeting**
   * Main work: Detecting human movements; Using self-supervised learning to transfer movement of human to humanoid robot
-* **01/2021 - 06/2021 &ensp;&ensp; Research on human motion generation**
+* **01/2021 - 06/2021 &ensp;&ensp; Research on two person emotion interaction detection and generation on video sequences**
   * Main work: Using LSTM network and human interaction dataset to predict the next movement of one agent
 * **02/2020 - 06/2020 &ensp;&ensp; Research about 3D point-cloud reconstruction of SJTU campus virtual map**
   * Main work: Studying the pose of camera, using SIFT and ORB algorithms to find and match feature points of sequential frame

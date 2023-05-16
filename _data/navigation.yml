@@ -3,6 +3,9 @@ main:
   - title: "CV"
     url: /cv/
 
-  - title: "Experiences"
+  - title: "Publications"
     url: /publications/
+
+  - title: "Experiences"
+    url: /experiences/
 
