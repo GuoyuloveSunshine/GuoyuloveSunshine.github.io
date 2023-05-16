@@ -172,6 +172,9 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
+  experiences:
+    output: true
+    permalink: /:collection/:path/
   repos:
     output: true
     permalink: /:collection/:path/
