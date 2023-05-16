@@ -66,8 +66,8 @@ redirect_from:
 ## LABORATORY EXPERIENCE
 * **10/2022 - present &ensp;&ensp; Research on robot manipulation**
   * Main work: Using imitation learning to imitate complex human manipulation trajectories
-* **05/2022 - 08/2022 &ensp;&ensp; Research on motion retargeting**
-  * Main work: Using self-supervised learning to transfer movement of human to humanoid robot
+* **05/2022 - 08/2022 &ensp;&ensp; Research on movement detection and motion retargeting**
+  * Main work: Detecting human movements; Using self-supervised learning to transfer movement of human to humanoid robot
 * **01/2021 - 06/2021 &ensp;&ensp; Research on human motion generation**
   * Main work: Using LSTM network and human interaction dataset to predict the next movement of one agent
 * **02/2020 - 06/2020 &ensp;&ensp; Research about 3D point-cloud reconstruction of SJTU campus virtual map**
