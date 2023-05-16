@@ -76,5 +76,3 @@ redirect_from:
   * Main work: Using application to mesure the magnetic field, Using python to fit the curve and verify the theorem
 * **07/2018 - 08/2018 &ensp;&ensp; Research about the application Tokamak**
   * Main work: Establishing and solving parametric equation by MATLAB
-
-## 5.16 16:08
