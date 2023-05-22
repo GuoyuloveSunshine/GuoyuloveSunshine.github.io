@@ -25,7 +25,7 @@ The Keraal project aims to develop a physiotherapist robot called Poppy capable 
 > The architecture of two networks
 
 ## Video Presentation
-!["ProjectKERAAL"](https://github.com/GuoyuloveSunshine/GuoyuloveSunshine.github.io/blob/main/files/Trailer_ProjetKERAAL_STF.mp4)
+!["ProjectKERAAL"](https://GuoyuloveSunshine.github.io/files/Trailer_ProjetKERAAL_STF.mp4)
 
 ## Files download
 You can download the [report](http://GuoyuloveSunshine.github.io/files/PRe.pdf) of this project, and the [poster](http://GuoyuloveSunshine.github.io/files/Poster.pdf) of this project.

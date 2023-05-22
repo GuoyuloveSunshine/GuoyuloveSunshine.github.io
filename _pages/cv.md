@@ -36,7 +36,7 @@ redirect_from:
 ## Exchange Experience
 
 * **08/2021 - 09/2022 &ensp;&ensp; ENSTA(National School of Advanced Techniques) Paris, Institut Polytechnique de Paris, Paris, France**
-  * Major: Information Engineering
+  * Major: Information and Communication Sciences and Technologies
 
 ## Internship
 * **06/2020 - 09/2020 &ensp;&ensp; Air Liquide Company, Minhang Distinct, Shanghai, China**
