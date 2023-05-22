@@ -48,7 +48,7 @@ redirect_from:
 - **Language: French, English, Chinese**
 - **Programming: C/C++, Python**
 - **ML systems: Pytorch**
-- **Physical Simulation Plantforms: Mujoco, Isaac Gym**
+- **Physical Simulation Platforms: Mujoco, Isaac Gym**
 - **Data Acquisition & Processing: Matlab**
 
 
@@ -73,6 +73,6 @@ redirect_from:
 * **02/2020 - 06/2020 &ensp;&ensp; Research about 3D point-cloud reconstruction of SJTU campus virtual map**
   * Main work: Studying the pose of camera, using SIFT and ORB algorithms to find and match feature points of sequential frame
 * **07/2019 - 09/2019 &ensp;&ensp; Research about the Magnetic field around an energized coil**
-  * Main work: Using application to mesure the magnetic field, Using python to fit the curve and verify the theorem
+  * Main work: Using application to measure the magnetic field, Using python to fit the curve and verify the theorem
 * **07/2018 - 08/2018 &ensp;&ensp; Research about the application Tokamak**
   * Main work: Establishing and solving parametric equation by MATLAB
