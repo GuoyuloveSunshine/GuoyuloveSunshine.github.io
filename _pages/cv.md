@@ -61,6 +61,9 @@ redirect_from:
 - **12/2018 &ensp;&ensp; B Prize of Shanghai Jiao Tong University (15%)**
 - **10/2018 &ensp;&ensp; Three Good Student of Shanghai Jiao Tong University**
 
+## PUBLICATIONS
+* **Manipulate as Human: Learning Task-oriented Manipulation Skills by Adversarial Motion Priors**
+  * Submitted to IEEE ICRA 2024 and Under Review
 
 
 ## LABORATORY EXPERIENCE
